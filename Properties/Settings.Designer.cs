@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BingDunDun.Properties
+namespace WinterOlympics.Properties
 {
 
 

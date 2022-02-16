@@ -1,9 +1,0 @@
-D:\Projects Other\GitHub\bufan\BingDunDun\bin\Debug\BingDunDun.exe
-D:\Projects Other\GitHub\bufan\BingDunDun\bin\Debug\BingDunDun.pdb
-D:\Projects Other\GitHub\bufan\BingDunDun\obj\Debug\BingDunDun.csproj.AssemblyReference.cache
-D:\Projects Other\GitHub\bufan\BingDunDun\obj\Debug\BingDunDun.Form1.resources
-D:\Projects Other\GitHub\bufan\BingDunDun\obj\Debug\BingDunDun.Properties.Resources.resources
-D:\Projects Other\GitHub\bufan\BingDunDun\obj\Debug\BingDunDun.csproj.GenerateResource.cache
-D:\Projects Other\GitHub\bufan\BingDunDun\obj\Debug\BingDunDun.csproj.CoreCompileInputs.cache
-D:\Projects Other\GitHub\bufan\BingDunDun\obj\Debug\BingDunDun.exe
-D:\Projects Other\GitHub\bufan\BingDunDun\obj\Debug\BingDunDun.pdb
